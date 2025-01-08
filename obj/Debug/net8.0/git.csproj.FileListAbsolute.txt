@@ -1,0 +1,14 @@
+C:\Users\Syncentralen\Desktop\git\git\bin\Debug\net8.0\git.exe
+C:\Users\Syncentralen\Desktop\git\git\bin\Debug\net8.0\git.deps.json
+C:\Users\Syncentralen\Desktop\git\git\bin\Debug\net8.0\git.runtimeconfig.json
+C:\Users\Syncentralen\Desktop\git\git\bin\Debug\net8.0\git.dll
+C:\Users\Syncentralen\Desktop\git\git\bin\Debug\net8.0\git.pdb
+C:\Users\Syncentralen\Desktop\git\git\obj\Debug\net8.0\git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syncentralen\Desktop\git\git\obj\Debug\net8.0\git.AssemblyInfoInputs.cache
+C:\Users\Syncentralen\Desktop\git\git\obj\Debug\net8.0\git.AssemblyInfo.cs
+C:\Users\Syncentralen\Desktop\git\git\obj\Debug\net8.0\git.csproj.CoreCompileInputs.cache
+C:\Users\Syncentralen\Desktop\git\git\obj\Debug\net8.0\git.dll
+C:\Users\Syncentralen\Desktop\git\git\obj\Debug\net8.0\refint\git.dll
+C:\Users\Syncentralen\Desktop\git\git\obj\Debug\net8.0\git.pdb
+C:\Users\Syncentralen\Desktop\git\git\obj\Debug\net8.0\git.genruntimeconfig.cache
+C:\Users\Syncentralen\Desktop\git\git\obj\Debug\net8.0\ref\git.dll
